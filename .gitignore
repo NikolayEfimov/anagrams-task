@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled bytecode
+build/classes/
+build/kotlin/
+build/libs/
+out/
+bin/
+
+# Local configuration files
+*.log
+*.lock
+*.lock-w
+*.log.*
+*.tmp
+
+# User-specific files
+.gradle
+.idea
+
+# Exclude macOS system files
+.DS_Store
